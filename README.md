@@ -3,7 +3,25 @@
 LastMinute AI is a production-ready, AI-powered productivity web application designed to help users proactively complete tasks before deadlines catch up with them. Unlike passive reminder applications, LastMinute AI acts as a **productivity coach** powered by **Google Gemini API** and backed by **Firebase Firestore & Authentication**.
 
 ---
+## 📸 Screenshots
 
+### Landing Page
+
+<p align="center">
+  <img src="public/readme/landing-page.png" alt="Landing Page" width="900">
+</p>
+
+### Dashboard
+
+<p align="center">
+  <img src="public/readme/dashboard.png" alt="Dashboard" width="900">
+</p>
+
+### AI Productivity Coach
+
+<p align="center">
+  <img src="public/readme/ai-coach.png" alt="AI Coach" width="900">
+</p>
 ## 🌟 Key Features
 
 1. **Apple-Inspired Glassmorphic UI:** Smooth, animated layout styled with glass card blur layers, neon color indicators, and animated circular gauges.
