@@ -16,6 +16,8 @@ LastMinute AI is a production-ready, AI-powered productivity web application des
 
 ---
 
+
+
 ## 📂 Folder Structure
 
 ```
