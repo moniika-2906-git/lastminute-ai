@@ -8,7 +8,7 @@ LastMinute AI is a production-ready, AI-powered productivity web application des
 ### Landing Page
 
 <p align="center">
-  <img src="public/readme/landing-page.png" alt="Landing Page" width="900">
+  <img src=""C:\Users\hp\Pictures\Screenshots\Screenshot 2026-07-04 165738.png"" alt="Landing Page" width="900">
 </p>
 
 ### Dashboard
